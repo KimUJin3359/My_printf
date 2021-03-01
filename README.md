@@ -1,12 +1,18 @@
-# ft_printf
+# My_printf
 
-### summary
+### Summary
 
-#### Make my printf like real printf
 #### Manage the conversions : c, s, p, d, i, u, x, X, %
-#### Manage 
-flags : -, 0
+#### Manage flags : -, 0
+#### Manage width : * or numbers
+#### Manage precision : .* or .numbers
 
-width : * or numbers
+### Project
+This is a project making my printf.
 
-precision : .* or .numbers
+Only a limited conversions are implemented.
+
+#### Helps
+- [explanation](https://github.com/ljiwoo59)
+  - [For more Information About My_printf](https://velog.io/@ljiwoo59/ftprintf)
+- [refactoring](https://github.com/Two-Jay)
