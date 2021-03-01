@@ -14,7 +14,7 @@ Only a limited conversions are implemented.
 
 #### Helps
 - explanation
-  - help : [ljiwoo59](https://github.com/ljiwoo59)
+  - Help : [ljiwoo59](https://github.com/ljiwoo59)
   - [For more Information About My_printf](https://velog.io/@ljiwoo59/ftprintf)
 - refactoring
-  - help : [Two-Jay](https://github.com/Two-Jay)
+  - Help : [Two-Jay](https://github.com/Two-Jay)
