@@ -13,6 +13,8 @@ This is a project making my printf.
 Only a limited conversions are implemented.
 
 #### Helps
-- [explanation](https://github.com/ljiwoo59)
+- explanation
+  - help : [ljiwoo59](https://github.com/ljiwoo59)
   - [For more Information About My_printf](https://velog.io/@ljiwoo59/ftprintf)
-- [refactoring](https://github.com/Two-Jay)
+- refactoring
+  - help : [Two-Jay](https://github.com/Two-Jay)
